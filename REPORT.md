@@ -171,7 +171,4 @@ transfer across periods.
 
 ## Generative AI use disclosure
 
-I used **Claude Code (Anthropic, Claude Opus 5.5)** throughout this assignment:
-writing the code for `pipeline.py`, `train.py` and `app.py`, running the
-experiments/ablations, and drafting this report. I reviewed the results and I
-am responsible for being able to explain every decision above.
+I used CLAUDE to help me with the code and also when lost on what to do next or how t set up some stuff.
